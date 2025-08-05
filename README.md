@@ -1,4 +1,4 @@
-![SmplSuite Logo](https://raw.githubusercontent.com/CodeKwa/SmplSuite/main/assets/SmplSuite_MAIN_Transparent.png)
+![SmplSuite Logo](SmplSuite_LOGO.png)
 
 **SmplSuite**  
 **Organize Everything. Smarter.**  
