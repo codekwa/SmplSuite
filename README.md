@@ -1,102 +1,46 @@
-# 🎧 SmplSuite – Music Software Suite
+![SmplSuite Logo](https://raw.githubusercontent.com/CodeKwa/SmplSuite/main/assets/SmplSuite_MAIN_Transparent.png)
 
-**A unified suite of smart, music-first desktop tools built for collectors, creators, and curators.**  
-Developed by **CodeKwa – Kwami J.M.**, SmplSuite is your next-generation desktop toolkit for intelligent media management, file syncing, and advanced playback.
-
-![SmplSuite Logo](https://smplsuite.com/assets/smplsuite-logo.png)
-
----
-
-## 🔹 What is SmplSuite?
-
-SmplSuite is a curated set of cross-platform utilities and players designed to:
-
-- Clean up messy music libraries
-- Auto-fill missing tags and album art
-- Sync tracks with mobile/portable devices
-- Enable rich local music playback + online radio
-- Offer advanced tools to DJs, audiophiles, and artists
+**SmplSuite**  
+**Organize Everything. Smarter.**  
+*AUDIO • PHOTO • UTILITIES*
 
 ---
 
-## 🧩 Current Tools
+SmplSuite is a modular suite of creative and utility-focused tools built for modern audio, visual, and file management workflows. Powered by CodeKwa and designed with simplicity and smart automation in mind, each tool within the suite helps creators and organizers take control of their digital content.
 
-| Tool | Description | Status |
-|------|-------------|--------|
-| 🎵 [Simple MFO](https://github.com/CodeKwa/SimpleMFO) | Music File Organizer with auto-tagging | ✅ Released |
-| 📲 SimpleSync *(coming soon)* | Sync music to iPhone, Android, SD cards, and players | 🛠️ In Dev |
-| 🎼 SmplPlayer *(coming soon)* | Music library/player with online radio + local playback | 🛠️ In Planning |
+### 🔊 Current Audio Tools:
+- **SmplMFO** – Music File Organizer that auto-sorts, renames, and enriches music libraries.
+- **SmplSync** *(coming soon)* – Sync and transfer music across devices like Android, iPhones, SD cards, and more.
+- **SmplPlayer** *(planned)* – A modern local music player with playlist support and radio streaming.
 
----
+### 🎨 Upcoming Photo Tools:
+- Custom visual file organizer
+- Print mockup generator
+- Asset tagger for creatives
 
-## 🛠 Roadmap Features
-
-- ✅ Auto-tagging from online sources (MusicBrainz, LastFM)
-- ✅ Smart folder reorganization
-- ✅ Album art embedding
-- 🔜 Two-way device syncing (SimpleSync)
-- 🔜 Smart playlists + visualizers (SmplPlayer)
-- 🔜 Online radio + custom radio presets
-- 🔜 Equalizer, skins, and plugins
+### 🧰 Upcoming Utilities:
+- Smart file cleanup tools
+- Metadata fixer for all media types
+- Folder deduplication and sync logic
 
 ---
 
-## 📂 Folder Structure
-
-```bash
-/smplsuite
-│
-├── simplemfo/       # Main folder organizer
-├── simplesync/      # Device sync tool (coming soon)
-├── smplplayer/      # Media player (coming soon)
-├── assets/          # Logos, icons, branding
-├── docs/            # Help docs + licensing
-└── LICENSE
-```
+## 🔗 Related Projects
+| Tool         | Free Version                             | Pro Version                         | Status     |
+|--------------|-------------------------------------------|--------------------------------------|------------|
+| **Simple MFO**   | [View on GitHub](https://github.com/CodeKwa/SimpleMFO) | [Download on smplsuite.com](https://smplsuite.com/simplemfo) | ✅ Released |
+| **SimpleSync**   | Coming soon                               | Coming soon                          | 🔧 In Dev  |
+| **SmplPlayer**   | Coming soon                               | Coming soon                          | 🧪 Planned |
 
 ---
 
-## 📥 Downloads
-
-| Tool        | Download (Free)                                         | Download (Pro)                             | License              |
-|-------------|----------------------------------------------------------|--------------------------------------------|----------------------|
-| Simple MFO  | [GitHub – Free Edition](https://github.com/CodeKwa/SimpleMFO) | [smplsuite.com](https://smplsuite.com)     | MIT (Free) / EULA (Pro) |
-| SimpleSync  | Coming Soon                                              | Coming Soon                                 | TBD                  |
-| SmplPlayer  | Coming Soon                                              | Coming Soon                                 | TBD                  |
-
-👉 [![Buy Pro – smplsuite.com](https://img.shields.io/badge/Buy%20Pro-smplsuite.com-blue?style=for-the-badge&logo=windows)](https://smplsuite.com)
+## 🔧 Built By:
+**CodeKwa – Kwami J.M.**  
+Pushing creative utilities for digital freedom.
 
 ---
 
-## 🔐 Licensing & Usage
+## 📬 Feedback or Suggestions?
+Please use the Issues tab or visit [smplsuite.com/contact](https://smplsuite.com/contact)
 
-- All core tools are developed by **CodeKwa – Kwami J.M.**
-- Free versions licensed under [MIT](LICENSE)
-- Pro builds governed by EULA and distributed commercially via [smplsuite.com](https://smplsuite.com)
-
----
-
-## 🌐 Branding
-
-- Official Site: [smplsuite.com](https://smplsuite.com)
-- Software Label: CodeKwa
-- Distribution Partner: [CapturedAgency.com](https://capturedagency.com)
-
----
-
-## 🙌 Credits
-
-- MusicBrainz & LastFM APIs  
-- ttkbootstrap (Material GUI)  
-- Mutagen (Metadata Toolkit)  
-- Heroicons, Feather Icons  
-- Open Source Contributors & Supporters
-
----
-
-## 📬 Feedback & Support
-
-Reach out:  
-📧 support@capturedagency.com  
-💬 [Submit Feature Request](https://github.com/CodeKwa/SmplSuite/issues)  
-🐛 [Report a Bug](https://github.com/CodeKwa/SmplSuite/issues)
+Stay tuned for more tool releases under the SmplSuite banner.
