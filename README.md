@@ -28,8 +28,8 @@ SmplSuite is a modular suite of creative and utility-focused tools built for mod
 ## 🔗 Related Projects
 | Tool         | Free Version                             | Pro Version                         | Status     |
 |--------------|-------------------------------------------|--------------------------------------|------------|
-| **Simple MFO**   | [View on GitHub](https://github.com/CodeKwa/SimpleMFO) | [Download on smplsuite.com](https://smplsuite.com/) | ✅ Released |
-| **SimpleSync**   | Coming soon                               | Coming soon                          | 🔧 In Dev  |
+| **SmplMFO**   | [View on GitHub](https://github.com/CodeKwa/SmplMFO) | [Download on smplsuite.com](https://smplsuite.com/) | ✅ Released |
+| **SmplSync**   | Coming soon                               | Coming soon                          | 🔧 In Dev  |
 | **SmplPlayer**   | Coming soon                               | Coming soon                          | 🧪 Planned |
 
 ---
