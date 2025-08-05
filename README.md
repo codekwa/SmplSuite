@@ -1,4 +1,4 @@
-# 🎧 SmplSuite – CodeKwa Software Suite
+# 🎧 SmplSuite – Music Software Suite
 
 **A unified suite of smart, music-first desktop tools built for collectors, creators, and curators.**  
 Developed by **CodeKwa – Kwami J.M.**, SmplSuite is your next-generation desktop toolkit for intelligent media management, file syncing, and advanced playback.
