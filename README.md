@@ -6,7 +6,7 @@
 
 ---
 
-SmplSuite is a modular suite of creative and utility-focused tools built for modern audio, visual, and file management workflows. Powered by CodeKwa and designed with simplicity and smart automation in mind, each tool within the suite helps creators and organizers take control of their digital content.
+SmplSuite is a modular suite of creative and utility-focused tools built for modern audio, visual, and file management workflows. Created by CodeKwa, using Python. Designed with simplicity and smart automation in mind. Each tool within the suite helps creators and organizers take control of their digital content.
 
 ### 🔊 Current Audio Tools:
 - **SmplMFO** – Music File Organizer that auto-sorts, renames, and enriches music libraries.
